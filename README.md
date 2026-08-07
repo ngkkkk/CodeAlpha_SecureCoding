@@ -33,6 +33,34 @@ This project covers the following critical vulnerabilities (inspired by the OWAS
 5. **Plaintext Passwords (Weak Cryptography)**
 6. **Missing Authentication (Broken Access Control)**
 
+## 📸 Screenshots & Demonstrations
+
+### 🟥 Vulnerable Dashboard
+![Vulnerable Dashboard](Screenshots/home_vulnerable.png)
+
+### 🟩 Secure Dashboard
+![Secure Dashboard](Screenshots/home_secure.png)
+
+### 🐛 Vulnerability Demonstrations
+
+**1. SQL Injection (SQLi)**
+![SQL Injection](Screenshots/sql_injection.png)
+
+**2. SQL Injection Fixed (Parameterized Queries)**
+![SQL Fixed](Screenshots/sql_fixed.png)
+
+**3. Cross-Site Scripting (XSS)**
+![XSS Demo](Screenshots/xss_demo.png)
+
+**4. Command Injection**
+![Command Injection](Screenshots/ping_demo.png)
+
+**5. Missing Authentication Fixed**
+![Admin Protected](Screenshots/admin_protected.png)
+
+### 🛡️ Static Analysis (Bandit)
+![Bandit Report](Screenshots/bandit_report.png)
+
 ## 📂 Repository Structure
 ```text
 📦 CodeAlpha_Secure_Coding_Review
