@@ -84,11 +84,7 @@ This project covers the following critical vulnerabilities (inspired by the OWAS
 Ensure you have Python 3.8+ installed on your machine.
 
 ### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mhdsahil1/CodeAlpha_SecureCodingReview.git
-   cd CodeAlpha_SecureCodingReview
-   ```
+1. Open a terminal in the project directory.
 
 2. (Optional but recommended) Create a virtual environment:
    ```bash
